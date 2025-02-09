@@ -1,6 +1,6 @@
 # Mini-Java-Apps 🚀
 
-Bienvenue dans Java OOP Playground ! Ce dépôt regroupe plusieurs petits projets réalisés en Java en utilisant la programmation orientée objet (POO). Chaque projet illustre des concepts clés de la POO comme l'encapsulation, l'héritage, le polymorphisme et l'abstraction.
+Bienvenue dans Mini-Java-Apps ! Ce dépôt regroupe plusieurs petits projets réalisés en Java en utilisant la programmation orientée objet (POO). Chaque projet illustre des concepts clés de la POO comme l'encapsulation, l'héritage, le polymorphisme et l'abstraction.
 
 # 📌 Contenu du dépôt
 
