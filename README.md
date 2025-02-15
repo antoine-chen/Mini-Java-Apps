@@ -1,6 +1,6 @@
 # Mini-Java-Apps 🚀
 
-Bienvenue dans Mini-Java-Apps ! Ce dépôt regroupe plusieurs petits projets réalisés en Java en utilisant la programmation orientée objet (POO). Chaque projet illustre des concepts clés de la POO comme l'encapsulation, l'héritage, le polymorphisme et l'abstraction.
+Bienvenue dans Mini-Java-Apps ! Ce dépôt regroupe plusieurs petits projets réalisés en Java en utilisant la programmation orientée objet (POO)/ et aussi des projets sans POO.
 
 # 📌 Contenu du dépôt
 
@@ -14,21 +14,12 @@ Voici une liste des projets disponibles :
 Chaque projet est organisé dans un dossier séparé avec son propre README.md contenant les détails d’installation et d’utilisation.
 
 🛠️ Technologies utilisées
-
 Langage : Java
-Paradigme : Programmation Orientée Objet (POO)
+Paradigme : Programmation Orientée Objet (POO)/ sans POO aussi 
 Outils : IntelliJ IDEA 
 Gestion de versions : Git & GitHub
 
-# 🚀 Installation et exécution
-
-1. Cloner le dépôt :
-
+# Cloner le dépôt :
 git clone <lienDuGitHub>
 cd ../cheminDuGitbuh/
 exécuter le programme dans un IDE.
-
-
-
-3. Exécuter les fichiers main de chaque projet selon les instructions du README.md correspondant.
-4. 
